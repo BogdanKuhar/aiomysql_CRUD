@@ -3,7 +3,7 @@ A versatile Python class utilizing the aiomysql library for streamlined interact
 
 # Database Interaction with aiomysql
 
-This project provides a Python class, `Database`, that simplifies interaction with MySQL databases using the `aiomysql` library. It offers convenient methods for performing CRUD (Create, Read, Update, Delete) operations on database tables.
+This project provides a Python class, `aiomysql_CRUD`, that simplifies interaction with MySQL databases using the `aiomysql` library. It offers convenient methods for performing CRUD (Create, Read, Update, Delete) operations on database tables.
 
 ## Features
 
